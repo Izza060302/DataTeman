@@ -5,8 +5,9 @@
       <map>
         <entry key="..\:/PPB/DataTeman/DataTeman/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/PPB/DataTeman/DataTeman/app/src/main/res/layout/fragment_github.xml" value="0.225" />
-        <entry key="..\:/PPB/DataTeman/DataTeman/app/src/main/res/layout/fragment_my_friends.xml" value="0.225" />
+        <entry key="..\:/PPB/DataTeman/DataTeman/app/src/main/res/layout/fragment_my_friends.xml" value="0.25" />
         <entry key="..\:/PPB/DataTeman/DataTeman/app/src/main/res/layout/fragment_profil.xml" value="0.2072072072072072" />
+        <entry key="..\:/PPB/DataTeman/DataTeman/app/src/main/res/layout/my_friends_item.xml" value="0.5" />
       </map>
     </option>
   </component>
